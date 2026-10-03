@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "e2a437508565f54ffb9f357f",
+  "owner": "xnrpndtpw",
+  "repo": "page-c612450c55eb5ba35b6458c2",
+  "title": "速雷",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c612450c55eb5ba35b6458c2",
+      "a": "速雷",
+      "b": "",
+      "entity": "速雷",
+      "brand": "速雷",
+      "separator": "",
+      "path": "index.html",
+      "hash": "825e45da9b87957d01955633ed5d099847194544a9475474a4c9e28eabe2078f",
+      "content": {
+        "keyword1": "速雷",
+        "keyword2": "",
+        "primary_entity": "速雷",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "速雷提供稳定机场订阅与 VPN 网络加速服务，支持官方客户端下载，覆盖流媒体解锁、游戏加速与多设备在线，套餐灵活，节点优质。",
+          "AI_DESCRIPTION": "速雷提供稳定机场订阅与 VPN 网络加速服务，支持官方客户端下载，覆盖流媒体解锁、游戏加速与多设备在线，套餐灵活，节点优质。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:auto}body{font-family:system-ui,-apple-system,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#F7F3EB;color:#1C2B24;line-height:1.7;font-size:17px}a{color:#1E4D3A;text-decoration:underline}a:hover{color:#145C3A}img,svg{display:none}header,main,footer{width:100%;max-width:1080px;margin:0 auto;padding:0 16px}.topbar{background:#1E4D3A;color:#F7F3EB;padding:10px 0;font-size:14px}.topbar-inner{max-width:1080px;margin:0 auto;padding:0 16px;display:flex;flex-wrap:wrap;gap:8px 16px;justify-content:space-between}.brand-wrap{padding:22px 16px 8px;max-width:1080px;margin:0 auto}nav{display:flex;flex-wrap:wrap;gap:10px 14px;padding:8px 0 18px}nav a{color:#1E4D3A;text-decoration:none;border-bottom:2px solid #C5D4C8;padding-bottom:2px;font-weight:600}h1{font-size:2.05rem;line-height:1.25;color:#1E4D3A;letter-spacing:.02em}h2{font-size:1.45rem;color:#1E4D3A;margin:0 0 12px}h3{font-size:1.12rem;color:#245C40;margin:0 0 8px}p{margin:0 0 12px}.lead{font-size:1.05rem;color:#33473E}.section{padding:28px 0;border-top:1px solid #E4DDD0}.stagger{display:flex;flex-wrap:wrap;gap:20px;align-items:stretch}.stagger .panel{flex:1 1 280px;background:#FFFEF8;border:1px solid #E6DFD2;border-radius:12px;padding:18px 16px}.stagger.reverse{flex-direction:row-reverse}.badge{display:inline-block;background:#1E4D3A;color:#F7F3EB;border-radius:999px;padding:2px 10px;font-size:12px;margin-bottom:8px}.plans{display:flex;flex-wrap:wrap;gap:16px}.plan{flex:1 1 240px;background:#FFFEF8;border:1px solid #D9E3DA;border-radius:14px;padding:18px;display:flex;flex-direction:column;min-width:0}.plan.featured{background:#1E4D3A;color:#F7F3EB;border-color:#163D2E}.plan.featured h3,.plan.featured .price,.plan.featured a{color:#F7F3EB}.price{font-size:1.5rem;font-weight:700;margin:6px 0}.annual{font-size:.92rem;opacity:.9;margin-bottom:10px}.plan ul{margin:8px 0 16px;padding-left:18px}.plan li{margin:6px 0}.btn{display:inline-block;background:#1E4D3A;color:#F7F3EB;text-decoration:none;padding:10px 16px;border-radius:8px;font-weight:650}.plan.featured .btn{background:#F7F3EB;color:#1E4D3A}.faq-wrap{background:#EAF3EC;border-radius:14px;padding:18px 14px}.faq-wrap h2{margin-bottom:6px}.faq-note{margin-bottom:14px;color:#33473E}details{background:#FFFEF8;border:1px solid #D5E4D8;border-radius:10px;padding:10px 12px;margin:0 0 10px}summary{font-weight:700;color:#1E4D3A;cursor:pointer;list-style:inside disclosure-closed}details p{margin:8px 0 2px;color:#24362D}.steps{counter-reset:step}.step{display:flex;gap:12px;margin:0 0 14px}.num{flex:0 0 36px;height:36px;border-radius:50%;background:#1E4D3A;color:#F7F3EB;display:flex;align-items:center;justify-content:center;font-weight:700}.muted{color:#4A5C54;font-size:.95rem}.ad{background:#FFF8E8;border:1px dashed #C9B48A;border-radius:10px;padding:12px;margin:10px 0}.links{display:flex;flex-wrap:wrap;gap:8px 14px}.sitemap a,.links a{text-decoration:none;border-bottom:1px solid #C5D4C8}footer{padding:28px 16px 40px;color:#33473E;font-size:14px}footer h2{font-size:1.1rem}@media (max-width:640px){h1{font-size:1.7rem}body{font-size:16px}.stagger.reverse{flex-direction:row}.plan{flex:1 1 100%}}</style><div class=\"topbar\"><div class=\"topbar-inner\"><span>速雷官方网站 · 机场订阅与客户端下载</span><span><a href=\"#download\">前往官方下载</a></span></div></div><header class=\"brand-wrap\"><h1>速雷</h1><p class=\"lead\">面向跨境办公、流媒体与游戏加速的机场订阅服务。在速雷官网获取套餐、订阅与多平台客户端，节点与线路说明均以本页为准。</p><nav aria-label=\"页面导航\"><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></header><main><section id=\"intro\" class=\"section\"><h2>品牌简介</h2><div class=\"stagger\"><div class=\"panel\"><span class=\"badge\">官方身份</span><h3>速雷是谁</h3><p>速雷是以机场订阅为核心的网络加速品牌，同时提供可用于日常访问的 VPN 客户端配置。服务面向需要稳定跨境链路的个人与小型团队，强调可核对的流量额度、设备台数与线路类型，而不是空泛的速度口号。</p><p>本站为速雷官方网站入口，用于查阅套餐、下载客户端说明以及导入订阅的步骤。购买与续费请以账户内订单为准，避免来路不明的镜像站点。</p></div><div class=\"panel\"><span class=\"badge\">服务范围</span><h3>机场与加速如何配合</h3><p>机场侧提供可导入 Clash、Surge、Shadowrocket 等工具的订阅链接；客户端侧负责分流、节点选择与规则更新。速雷将普通线路与 IPLC 专线分层：日常浏览走标准节点池，游戏与会议可切换专线以降低抖动。</p><p>节点覆盖东亚、北美与欧洲主要接入点，流媒体解锁以原生或专线节点标注为准。不承诺突破一切限制，具体可用性随目标站点策略变化。</p></div></div></section><section id=\"scenes\" class=\"section\"><h2>使用场景</h2><div class=\"stagger reverse\"><div class=\"panel\"><h3>远程协作与资料访问</h3><p>适合需要连接海外代码仓库、设计素材库或会议系统的用户。基础版即可覆盖文档同步与网页邮件；对延迟更敏感的会议，建议旗舰版的 IPLC 游戏加速优化线路。</p><p class=\"muted\">建议：办公设备单独配置规则，避免与娱乐流量抢占同一会话。</p></div><div class=\"panel\"><h3>流媒体、学术与游戏</h3><p>旗舰版标注全节点原生流媒体解锁，适合跨区影视与直播；学术数据库访问走标准加密隧道即可。游戏加速侧重 TCP/UDP 稳定性，不保证所有对战服低延迟，但专线可减少跨国绕行。</p><p class=\"muted\">团队版面向工作室与实验室，支持更多设备与定制路由。</p></div></div></section><section id=\"plans\" class=\"section\"><h2>套餐与订阅</h2><p>以下价格与额度来自当前官方方案。年付为一次性结算对应月份流量与席位，不自动叠加未用完流量到下一自然年以外的周期。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><a class=\"btn\" href=\"#download\">前往订阅</a></article><article class=\"plan featured\"><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><a class=\"btn\" href=\"#download\">选择旗舰版</a></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><a class=\"btn\" href=\"#download\">咨询团队版</a></article></div></section><section id=\"guide\" class=\"section\"><h2>操作说明</h2><div class=\"stagger\"><div class=\"panel\"><h3>从开通到上网</h3><div class=\"steps\"><div class=\"step\"><div class=\"num\">1</div><div><p>在速雷官网选择套餐并完成支付，进入用户中心复制订阅链接。链接属于个人凭证，不要发到公开群组。</p></div></div><div class=\"step\"><div class=\"num\">2</div><div><p>按系统下载对应客户端：Windows / macOS 可用 Clash 系或官方封装包，Android 推荐兼容订阅的加速器，iOS 使用可导入机场订阅的客户端。</p></div></div><div class=\"step\"><div class=\"num\">3</div><div><p>导入订阅后更新节点列表，选择地区与线路类型。日常浏览用普通节点，游戏与实时音视频切到 IPLC 标注节点。</p></div></div><div class=\"step\"><div class=\"num\">4</div><div><p>开启系统代理或 TUN 模式，访问目标站点验证。若某条线路失败，切换同区域备份节点，不必反复重装软件。</p></div></div></div></div><div class=\"panel\"><h3>分流与设备管理</h3><p>建议国内直连、跨境走代理。同一账户同时在线设备数以套餐为准，超出后新连接会被拒绝，不会静默扣加倍流量。</p><p>流量按出站计量，观看超清流媒体会明显快于网页浏览。月度额度用尽后加速通道暂停，次月或升级套餐后恢复，历史账单可在用户中心核对。</p><p>团队版可将不同部门指向不同出口，减少账号混用导致的风控。定制路由需通过工单提交网段与域名列表。</p></div></div></section><section id=\"download\" class=\"section\"><h2>客户端下载与节点说明</h2><div class=\"stagger reverse\"><div class=\"panel\"><h3>官方下载入口</h3><p>请仅通过本页锚点进入下载说明，避免第三方打包。Windows 与 macOS 提供安装包校验说明；移动端请从系统应用商店获取兼容订阅协议的客户端，再粘贴速雷订阅。</p><p><a class=\"btn\" href=\"#\">Windows 客户端说明</a> <a class=\"btn\" href=\"#\">macOS 客户端说明</a></p><p class=\"muted\"><a href=\"#\">Android 导入指南</a> · <a href=\"#\">iOS 导入指南</a> · <a href=\"#\">路由器订阅示例</a></p></div><div class=\"panel\"><h3>线路与性能口径</h3><p>普通线路适合网页、邮件与中等码率视频；IPLC 专线用于对抖动敏感的游戏与会议。延迟随本地运营商与时段变化，本页不填写虚构跑分或用户评分。</p><p>节点名称含地区与线路类型，例如东亚标准、美西 IPLC。维护窗口会在用户中心公告。若目标流媒体改版导致解锁失败，以工单反馈为准，不保证永久可用。</p></div></div></section><section id=\"faq\" class=\"section\"><div class=\"faq-wrap\"><h2>常见问题</h2><p class=\"faq-note\">以下为速雷机场订阅与客户端使用中最常被问到的事项，展开即可阅读完整说明。</p><details><summary>速雷是机场还是 VPN？和普通梯子有何不同？</summary><p>速雷同时提供机场订阅与可用于多系统的 VPN 客户端配置。机场侧重可更新的节点池与规则；VPN 客户端侧重一键连接。与来源不明的免费梯子相比，速雷按月给出流量与设备上限，线路类型可查，出问题走工单而不是失效即弃。</p></details><details><summary>如何在官网完成客户端下载并导入订阅？</summary><p>先登录用户中心复制订阅地址，再打开本页「客户端下载」对应系统的说明，安装完成后选择从 URL 更新。Clash 系粘贴订阅即可拉取代理组；iOS 客户端通常支持一键导入。导入后务必更新一次节点，再选择地区。</p></details><details><summary>三个套餐该如何选择？年付包含什么？</summary><p>轻度浏览与三台设备内选基础版；需要原生流媒体、五台设备和 IPLC 游戏加速选旗舰版；工作室或实验室多终端选团队版。年付是把十二个月费用一次性支付并锁定对应席位与月度流量规则，不是把全年流量合并成一个大包无限使用。</p></details><details><summary>支持哪些设备？超出会怎样？</summary><p>常见桌面系统、手机以及部分路由器均可导入同一订阅。同时在线台数：基础版 3、旗舰版 5、团队版 20。超出后新会话无法建立，已连接设备不受瞬间踢下线影响，但建议在设置里关掉闲置终端的自动重连。</p></details><details><summary>IPLC 专线适合什么场景？普通节点不够用吗？</summary><p>网页检索、文档和普通视频用普通节点即可。对战游戏、实时语音和部分对延迟敏感的远程桌面，旗舰版与团队版中的 IPLC 更合适。专线带宽更高、绕路更少，但仍受你本地宽带与对端服务器限制，不能理解成无限加速。</p></details><details><summary>流量统计、用尽与工单如何处理？</summary><p>流量以平台出站字节为准，用户中心可查看日用量。用尽当月额度后加速暂停，可等待下个计费周期或升级套餐。旗舰版含 7x24 优先工单，团队版另有客户经理通道。描述问题时请附上节点名、客户端版本与发生时间，便于核对日志。</p></details><details><summary>是否提供退款？节点地区包括哪些？</summary><p>因数字订阅即时交付，开通成功后一般不支持无理由退款；重复扣款或明显开通失败可提交工单核查。节点以东亚、北美、欧洲接入为主，具体列表在订阅更新后可见。本页不展示伪造的星级评价或匿名好评。</p></details></div></section><section id=\"ads\" class=\"section\"><h2>公告与展示位</h2><div class=\"ad\"><p>速雷官网维护公告位：客户端校验方式更新时，将在此同步纯文字说明。不投放弹窗，不跳转未知短链。</p><p><a href=\"#download\">查看当前官方下载说明</a></p></div><div class=\"ad\"><p>合作展示：仅接受与网络工具、云主机文档相关的文字互换。如需互换友链，请通过页脚联系锚点提交站点名称与简介。</p></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><section id=\"sitemap\"><h2>网站地图</h2><p class=\"sitemap links\"><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">公告展示</a><a href=\"#friends\">友情链接</a></p><p class=\"muted\">规范索引：<a href=\"#\">sitemap.xml</a></p></section><section id=\"friends\"><h2>友情链接</h2><p class=\"links\"><a href=\"#\">客户端协议说明</a><a href=\"#\">路由规则示例</a><a href=\"#\">工单入口说明</a><a href=\"#\">服务状态页</a><a href=\"#\">使用条款摘要</a></p></section><p>© 速雷 官方网站 · 机场订阅与网络加速服务。内容以本页套餐与说明为准。</p></footer>",
+          "hash": "002435ac4acb5b602fcc3f34c4a9390881f2947404427735261b20dad206a017",
+          "seo": {
+            "title": "速雷官网｜机场订阅、VPN 客户端下载与网络加速器",
+            "keywords": "速雷,速雷机场,速雷VPN,速雷官网,机场订阅,客户端下载,网络加速,梯子,加速器,IPLC",
+            "description": "速雷提供稳定机场订阅与 VPN 网络加速服务，支持官方客户端下载，覆盖流媒体解锁、游戏加速与多设备在线，套餐灵活，节点优质。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sykhx.cn",
+    "host": "p-0af49b3e6c.sykhx.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "1stg3e.cn",
+      "url": "https://1stg3e.cn/",
+      "label": "速雷",
+      "apex": "1stg3e.cn",
+      "kind": null,
+      "identity": "fqxpvfyvc/page-aad7828fee7315eec71752fb"
+    },
+    {
+      "host": "wcvwhsz.cn",
+      "url": "https://wcvwhsz.cn/",
+      "label": "速雷",
+      "apex": "wcvwhsz.cn",
+      "kind": null,
+      "identity": "uyfpwu/page-fafc170678cec524e5fd11fb"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1f47d9e0a3b52622de93223ad862727c3d7e4bbbdb08a758e0e651c476d5b71c",
+    "sitemap.xml": "34071de2a4f73631bd596c5343a138a9871beff2f0ece63ffd15536bd7bfafed",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "c12dc84917caa998e3bd8353f531e8eb80a850f004bb9ca9377761dff9ff0d36",
+    "robots.txt": "3ed4a202c3c28fb4af8a78dd8eeb6f2b129f788f049577b98eae2c0d62efece2",
+    "62af83d049c5bc7088217ba35694c368.txt": "0479f8660b844aeb74dd1a0a37ec02b211b3082c4c5a28381bc2d31f2489db98"
+  },
+  "revision": "fb69f628fb6703746236099c335a0ddea1a4edbcca31d558813edad5d0e0e263"
+}
